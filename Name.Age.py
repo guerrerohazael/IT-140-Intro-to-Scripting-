@@ -1,3 +1,6 @@
+//Simple Python code to output "Hello, (your name)! You were born in, (birth year)"
+
+
 # Prompt the user for their name
 name = input("What is your name? ")
 
